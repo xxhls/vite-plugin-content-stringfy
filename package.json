@@ -1,0 +1,12 @@
+{
+  "name": "vite-plugin-content-stringfy",
+  "version": "1.0.0",
+  "description": "reads the contents of a file of the specified type as a string",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "heyq",
+  "license": "MIT"
+}
